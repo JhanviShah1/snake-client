@@ -1,4 +1,5 @@
 const net = require("net");
+
 const connect = function() {
   const conn = net.createConnection({
     host: 'localhost',
@@ -18,11 +19,6 @@ const connect = function() {
       } , 1000);
     }
   });
-  
-  
-    
- 
   return conn;
 };
-
 module.exports = {connect};
