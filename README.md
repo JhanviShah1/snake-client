@@ -13,7 +13,8 @@ Before you can run this client, you will need to be running the server side whic
 !["It prints a message to the screen when the connection is successfully established. As seen in the screen shot, the 3 letter name is JS1"](#![Screen Shot 2021-08-20 at 12 57 14 PM](https://user-images.githubusercontent.com/83320700/130269051-10e7348a-4b0f-4e4f-ba9c-f7fcbcce5dd4.jpeg)
 
 )
-!["Binding the w, a, s, and d keys to be the up, left, down, right movement keys"](#![Screen Shot 2021-08-19 at 10 12 34 PM](https://user-images.githubusercontent.com/83320700/130264232-70c8bf68-8905-49e5-b885-13f9bd392495.png)
+!["Binding the w, a, s, and d keys to be the up, left, down, right movement keys"](#![Screen Shot 2021-08-20 at 12 47 16 PM](https://user-images.githubusercontent.com/83320700/130275193-8c75ba92-a589-4cf9-aa84-f09ebdb3d550.jpeg)
+
 )
 
 
