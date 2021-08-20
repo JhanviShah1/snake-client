@@ -15,10 +15,6 @@ Before you can run this client, you will need to be running the server side whic
 )
 !["Binding the w, a, s, and d keys to be the up, left, down, right movement keys"](#![Screen Shot 2021-08-20 at 12 47 16 PM](https://user-images.githubusercontent.com/83320700/130275193-8c75ba92-a589-4cf9-aa84-f09ebdb3d550.jpeg)
 
-)
-
-
-
 
 # Getting Started
 
